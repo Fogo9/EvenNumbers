@@ -18,8 +18,6 @@
 
 * By using if in the for module, we have provided the rule for divisibility of numbers by 3 and 4.
 
-<br />
-
 # Codes
 
 ```Java
