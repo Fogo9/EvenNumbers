@@ -1,14 +1,14 @@
 # **EVEN NUMBERS**
 
-# Information
+## INFORMATION
 
 * **Program to find the average of numbers divisible by 3 and 4 entered from 0.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * Number, total, value variables are defined with int and average variable is defined with double.
 
@@ -18,7 +18,7 @@
 
 * By using if in the for module, we have provided the rule for divisibility of numbers by 3 and 4.
 
-# Codes
+## CODES
 
 ```Java
 
@@ -74,13 +74,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/EvenNumbers.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
